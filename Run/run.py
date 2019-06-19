@@ -12,6 +12,7 @@
 from Api.api import app
 from Schedule.schedule import Schedule
 
+
 def main():
 
     s = Schedule()
